@@ -1,0 +1,45 @@
+{
+  "Prestige_Tier": "Integer (e.g., 0, 1, 2...)",
+  "Level_Cap": "Integer (e.g., 125, 150...)",
+  "EXP_Required_To_Max": "Integer",
+  "Character_Slot_Unlocked": "String or Null (e.g., 'Character Slot B')",
+  "Retention_Rules": {
+    "Retained_Attributes": [
+      "String (e.g., 'Titan Serum/Mastery', 'Families', 'Perk Levels')"
+    ],
+    "Keep_Streak": "Boolean"
+  },
+  "Consequences_Resets": [
+    "String (e.g., 'Level resets', 'Skill tree resets', 'ODM Grade resets')"
+  ],
+  "Buffs_And_Rewards": {
+    "Selectable_Permanent_Boost_Options": [
+      "String (e.g., '+7.5% Luck', '+15.0% Exp', '+15.0% Gold')"
+    ],
+    "AFK_Zone_Gem_Payout_Bonus": "Integer",
+    "Legendary_Family_Flat_Chance_Bonus": "Float (Percentage value, e.g., 0.005)",
+    "Gold_To_Gem_Conversion": {
+      "Gold_Per_Gem_Ratio": "Integer",
+      "Cap_Multiplier_Base_Gold": "Integer"
+    }
+  },
+  "Memory_System_Globals": {
+    "Slots_Unlocked_Per_Prestige": "Integer",
+    "Base_Storage_Slots": "Integer",
+    "Storage_Unlock_Milestones": [
+      "String (e.g., '+1 slot of storage at Prestige 3')"
+    ],
+    "Gamepass_Storage_Bonus": "Integer",
+    "Roll_Chances": {
+      "1_Star_Percentage": "Percentage",
+      "2_Star_Percentage": "Percentage",
+      "3_Star_Percentage": "Percentage",
+      "4_Star_Percentage": "Percentage"
+    },
+    "Pity_Mechanic": {
+      "Scrolls_Until_Pity": "Integer",
+      "Pity_Target_Rarity": "String",
+      "Resets_On_Early_Roll": "Boolean"
+    }
+  }
+}

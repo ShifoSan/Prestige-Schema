@@ -1,0 +1,12 @@
+{
+  "Memory_Name": "String (e.g., 'Gambler')",
+  "Memory_Type_Branch": "String (e.g., 'Offense' / 'Defense' / 'Support')",
+  "Rarity_Stars": "Integer (Range: 1 to 4)",
+  "Description": "String",
+  "Base_Cooldown": "Integer or Null (Seconds)",
+  "Influence_Factor": "String or Null (e.g., 'Support Skill Tree path')",
+  "Stackable": "Boolean",
+  "System_Notes": [
+    "String (e.g., 'Has a 20 kill limit', 'Does not stack with copies of itself')"
+  ]
+}
