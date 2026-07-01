@@ -1,0 +1,65 @@
+[
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Prestige Overview\nInformation:\n- Titan Serum/Mastery, Families, Perk Levels, and all inventory items are kept after Prestiging.\n- You gain a Memory ([https://trello.com/c/rc2jweGL/129-memory-system](https://trello.com/c/rc2jweGL/129-memory-system)) after every Prestige, which is an additional passive buff (you start with 0).\n- You do NOT need a [https://trello.com/c/DGxOAV4N/132-prestige-scroll](https://trello.com/c/DGxOAV4N/132-prestige-scroll)  in order to Prestige, you just need to max out your level. **Prestige Scrolls are only used for rerolling Memories.**\n- Streak is kept after Prestiging.\n- The best permanent boost (for most players) is Luck.\n- You can not change your permanent boost (Gold/EXP/Luck) after it has been selected.\n- Having multiple of the same Memory does not do anything special (they don’t stack)\n\nPrestige Consequences:\n`-`Level resets\n`-`Skill tree resets\n`-`ODM Grade resets\n\nPrestige Buffs:\n`+`Memory (special passive that can be rerolled with [https://trello.com/c/DGxOAV4N/132-prestige-scroll](https://trello.com/c/DGxOAV4N/132-prestige-scroll))\n`+`7.5% Luck OR 15.0% Exp OR 15.0% Gold (player’s choice)\n`+`10 gems added to your payouts in the [https://trello.com/c/9HOPWLiI/56-afk-zone-rewards](https://trello.com/c/9HOPWLiI/56-afk-zone-rewards)\n`+`You get an additional 0.005% for Legendary Families per Prestige (buff does not get multiplied by X2 Family).\n`+`Level cap increases by 25\n(Prestige 1 = 125, Prestige 2 = 150, Prestige 3 = 175, Prestige 4 = 200, Prestige 5 = 225)\n`+`Gold gets converted into Gems at a ratio of 1,000 gold per 1 gem, but is capped at 200,000,000 Gold multiplied by the Prestige you are ascending to (Prestige 1’s cap is 200,000,000, Prestige 2’s is 400,000,000, etc.)",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Prestige Overview",
+            "url": "https://trello.com/c/fcgLLXvt"
+        }
+    },
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Prestige\nInformation:\n## Requirements:\n\n1,952,500 EXP required to max out Prestige 0 (Unlocks character slot B)\n\n3,429,553 EXP required to max out Prestige 1 (Unlocks character slot C)\n\n5,265,320 EXP required  to max out Prestige 2\n\n7,334,070 EXP required to max out Prestige 3\n\n9,504,975 EXP required to max out Prestige 4\n\n11,673,242 EXP required to max out Prestige 5\n\n## Rewards:\n\n[https://trello.com/c/rc2jweGL](https://trello.com/c/rc2jweGL)\n\n### Boosts of choice:\n\n+7.5% Luck / +15% Exp / +15% Gold",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Prestige",
+            "url": "https://trello.com/c/GyBr7hOY"
+        }
+    },
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Memory System\nInformation:\nEvery time you Prestige, you unlock 1 Memory slot.\n\nYou can access your Memories by following the path Play>Equipment>Prestige\n\nYou can re-roll one of your Memories at any time using a[https://trello.com/c/DGxOAV4N/132-prestige-scroll](https://trello.com/c/DGxOAV4N/132-prestige-scroll) from your inventory.\n\nThe memories you receive are _highly influenced_ by your current Skill Tree path. For example, if you only have points in the Support Skill Tree, you will receive mostly Support Memories.\n\n**The chances to roll memories are as follows:**\n\n- **1 Star** ☆: 70%\n- **2 Star** ☆☆: 25%\n- **3 Star** ☆☆☆: 4%\n- **4 Star** ☆☆☆☆: 1%\n\n**There is a pity of 20 scrolls to receive only 3+ Star Memories. This pity resets every time a 3+ Star is rolled.**\n\nMemories **DO NOT stack.** Having multiple of the same Memory does not give extra buffs.\n\nYou can also store 1 Memory to free up the slot it was in for something else without re-rolling it, and gain an extra slot of storage at Prestige 3 and Prestige 5. Additionally, you can store 3 more (for a total of 7) with the [https://trello.com/c/rna8aHA7/320-memory-bag](https://trello.com/c/rna8aHA7/320-memory-bag) gamepass.\n\n**There are 3 types of Memories:**\n\n---\n\n[https://trello.com/c/kT2wg7n5/128-offense-memories](https://trello.com/c/kT2wg7n5/128-offense-memories)\n\n---\n\n[https://trello.com/c/5IMHLbQO/131-defense-memories](https://trello.com/c/5IMHLbQO/131-defense-memories)\n\n---\n\n[https://trello.com/c/bjUb7fJR/130-support-memories](https://trello.com/c/bjUb7fJR/130-support-memories)\n\n---",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Memory System",
+            "url": "https://trello.com/c/rc2jweGL"
+        }
+    },
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Memory Types\nInformation:\nNo additional details provided.",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Memory Types",
+            "url": "https://trello.com/c/l3b39mnl"
+        }
+    },
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Offense Memories\nInformation:\n**4 Stars** ☆☆☆☆\n\n`>` Gambler - All DMG dealt fluctuates between 75.0% - 130.0% (Perfect Form makes this 85.0% - 140.0%)\n`>` Overslash - 30.0% of any excess DMG from a finishing blow applies to other titans in a 125m radius (4s CD)\n`>` Afterimages - Spear explosions create a smaller explosion in their wake, doing 40.0% DMG (4s CD)\n\n###### NOTE: Afterimages also apply to the explosions generated by [https://trello.com/c/Ub9VkBaz/343-undying-hero?search_id=a9f9d908-3eb5-4f55-b0f0-55cfe78e6a8d](https://trello.com/c/Ub9VkBaz/343-undying-hero?search_id=a9f9d908-3eb5-4f55-b0f0-55cfe78e6a8d)and [https://trello.com/c/a6S0aKYN/346-kingslayer](https://trello.com/c/a6S0aKYN/346-kingslayer)\n\n‌\n\n**3 Stars** ☆☆☆\n`>` Quakestrike - Each kill buffs Damage by 1.5%, resets after reloading blades.\n- Note - Has a 20 kill limit, capping at 30% damage. Also resets after shifting/ejecting or resupplying with thunderspears.\n`>` Furyforge - Buffs Damage by 0.4% for every 1% of Health lost.\n`>` Assassin - Blade skills deal 25.0% more DMG and have +15.0% SKILL CD REDUCTION\n`>` Amputation - Critical hits dealt to non-boss type titans' limbs disables limb regeneration\n`>` Marksman- Increase DMG by 0.4% for each 7.5m traveled per spear (Max 465m)\n\n**2 Stars** ☆☆\n`>` Stalwart - Blade Durability increases by 3% for every broken segment\n`>` Stormcharged - DMG increases by 3.0% for each shifter present in a match\n\n‌\n\n**1 Star** ☆\n`>` Crescendo - Deal 20% more Damage to stunned titans\n`>` Blitzblade - Holding down M1 increases your total Damage\n`>` Swiftshot - Refilling is 25% faster\n`>` Surgeshot - Holding your Spear’s M1 for longer increases the BLAST RADIUS",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Offense Memories",
+            "url": "https://trello.com/c/kT2wg7n5"
+        }
+    },
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Support Memories\nInformation:\n**4 Stars** ☆☆☆☆\n`>` Apotheosis - Awakening Bar fills 15.0% faster, can shift at 60.0% bar, and +1.25% DMG per 10.0% of Awakening Bar filled\n- Note: The damage increase applies to both shifter _and_ ODM/TS, as long as you have an Awakening (or Rage) Bar\n`>`  Bloodthief - Being hooked onto a titan recovers 3.0% HEALTH every 2s\n\n**3 Stars** ☆☆☆\n`>` Omnirange - Ranged skills now affect every player on the map, regardless of range\n`>` Flashstep -  Flips/Dashes now have I-Frames\n`>` Tactician - All support skills have +15.0% to their effects (Buffs, Duration and Radius)\n- Note: Flares, orders, Command, and Founder’s Order are all included\n\n**2 Stars** ☆☆\n\n`>` Vitalize -  Saving a teammate Heals both of you for 10% HP and boosts each of your next attack’s Damage by 25%\n`>` Lifefeed - Killing a titan heals you for 2.0% of your HP\n`>` Gem Fiend - Obtain +10.0% more Gems from AFK Zone/Mission Streak\n- Note: This memory does stack with other sources, such as Fritz’s extra gem passive, but _not_ copies of itself.\n\n**1 Star** ☆\n`>` Cooldown Blitz - Skill Cooldown Reduction increases by 10%\n`>` Mendmaster - Gain 1 extra bandage each time you refill your gas and blades",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Support Memories",
+            "url": "https://trello.com/c/bjUb7fJR"
+        }
+    },
+    {
+        "page_content": "Category: Prestige Info\nTopic/Item: Defense Memories\nInformation:\n**4 Stars** ☆☆☆☆\n\n`>` Necromantic - Upon ignoring death, gain +20.0% DMG, +25.0% HEALTH and +15.0% SPEED\n- Note: This memory does NOT grant you a revive and is only usable with the ‘Resilience' memory mentioned below or family clans that allow you to revive ie. Fritz/Yeager\n`>` Thanatophobia - When below 40.0% HEALTH, gain +25.0% DMG REDUCTION, +15.0% INJURY CHANCE REDUCTION and heal an injury every 15s.\n\n**3 Stars** ☆☆☆\n`>` Resilience - Ignore up to 1 killing blow per match\n`>` Vengeflare - Reflect 50% of incoming damage for 20 seconds while [Tough As Nails ](https://trello.com/c/pUM9p3YW/107-tough-as-nails \"‌\")is active\n`>` Steel Frame- All explosions deal 25.0% less self DMG and grant immunity to any explosions for 5s\n\n**2 Stars** ☆☆\n`>` Aegisurge - Gain a temporary shield that has 15% of your HP for 20 seconds after killing a titan\n\\*For shifter form, Aegisurge only gives a temporary shield for 5% of your HP.\n`>` Riposte - Successful counters instantly execute a titan\n\n**1 Star** ☆\n`>` Guardian - Ignore 2 injuries per match\n`>` Deflectra - 5% chance to completely ignore incoming damage",
+        "metadata": {
+            "source_type": "Trello",
+            "category": "Prestige Info",
+            "title": "Defense Memories",
+            "url": "https://trello.com/c/5IMHLbQO"
+        }
+    }
+]
