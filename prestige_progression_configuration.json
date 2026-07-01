@@ -1,0 +1,222 @@
+{
+  "Prestige_Progression_Configuration": [
+    {
+      "Prestige_Tier": 0,
+      "Level_Cap": 100,
+      "EXP_Required_To_Max": 1952500,
+      "Character_Slot_Unlocked": "Character Slot B",
+      "Retention_Rules": {
+        "Retained_Attributes": [
+          "Titan Serum/Mastery",
+          "Families",
+          "Perk Levels",
+          "All inventory items"
+        ],
+        "Keep_Streak": true
+      },
+      "Consequences_Resets": [
+        "Level resets",
+        "Skill tree resets",
+        "ODM Grade resets"
+      ],
+      "Buffs_And_Rewards": {
+        "Selectable_Permanent_Boost_Options": [
+          "+7.5% Luck",
+          "+15.0% Exp",
+          "+15.0% Gold"
+        ],
+        "AFK_Zone_Gem_Payout_Bonus": 10,
+        "Legendary_Family_Flat_Chance_Bonus": 0.005,
+        "Gold_To_Gem_Conversion": {
+          "Gold_Per_Gem_Ratio": 1000,
+          "Cap_Multiplier_Base_Gold": 200000000
+        }
+      }
+    },
+    {
+      "Prestige_Tier": 1,
+      "Level_Cap": 125,
+      "EXP_Required_To_Max": 3429553,
+      "Character_Slot_Unlocked": "Character Slot C",
+      "Retention_Rules": {
+        "Retained_Attributes": [
+          "Titan Serum/Mastery",
+          "Families",
+          "Perk Levels",
+          "All inventory items"
+        ],
+        "Keep_Streak": true
+      },
+      "Consequences_Resets": [
+        "Level resets",
+        "Skill tree resets",
+        "ODM Grade resets"
+      ],
+      "Buffs_And_Rewards": {
+        "Selectable_Permanent_Boost_Options": [
+          "+7.5% Luck",
+          "+15.0% Exp",
+          "+15.0% Gold"
+        ],
+        "AFK_Zone_Gem_Payout_Bonus": 10,
+        "Legendary_Family_Flat_Chance_Bonus": 0.005,
+        "Gold_To_Gem_Conversion": {
+          "Gold_Per_Gem_Ratio": 1000,
+          "Cap_Multiplier_Base_Gold": 200000000
+        }
+      }
+    },
+    {
+      "Prestige_Tier": 2,
+      "Level_Cap": 150,
+      "EXP_Required_To_Max": 5265320,
+      "Character_Slot_Unlocked": null,
+      "Retention_Rules": {
+        "Retained_Attributes": [
+          "Titan Serum/Mastery",
+          "Families",
+          "Perk Levels",
+          "All inventory items"
+        ],
+        "Keep_Streak": true
+      },
+      "Consequences_Resets": [
+        "Level resets",
+        "Skill tree resets",
+        "ODM Grade resets"
+      ],
+      "Buffs_And_Rewards": {
+        "Selectable_Permanent_Boost_Options": [
+          "+7.5% Luck",
+          "+15.0% Exp",
+          "+15.0% Gold"
+        ],
+        "AFK_Zone_Gem_Payout_Bonus": 10,
+        "Legendary_Family_Flat_Chance_Bonus": 0.005,
+        "Gold_To_Gem_Conversion": {
+          "Gold_Per_Gem_Ratio": 1000,
+          "Cap_Multiplier_Base_Gold": 200000000
+        }
+      }
+    },
+    {
+      "Prestige_Tier": 3,
+      "Level_Cap": 175,
+      "EXP_Required_To_Max": 7334070,
+      "Character_Slot_Unlocked": null,
+      "Retention_Rules": {
+        "Retained_Attributes": [
+          "Titan Serum/Mastery",
+          "Families",
+          "Perk Levels",
+          "All inventory items"
+        ],
+        "Keep_Streak": true
+      },
+      "Consequences_Resets": [
+        "Level resets",
+        "Skill tree resets",
+        "ODM Grade resets"
+      ],
+      "Buffs_And_Rewards": {
+        "Selectable_Permanent_Boost_Options": [
+          "+7.5% Luck",
+          "+15.0% Exp",
+          "+15.0% Gold"
+        ],
+        "AFK_Zone_Gem_Payout_Bonus": 10,
+        "Legendary_Family_Flat_Chance_Bonus": 0.005,
+        "Gold_To_Gem_Conversion": {
+          "Gold_Per_Gem_Ratio": 1000,
+          "Cap_Multiplier_Base_Gold": 200000000
+        }
+      }
+    },
+    {
+      "Prestige_Tier": 4,
+      "Level_Cap": 200,
+      "EXP_Required_To_Max": 9504975,
+      "Character_Slot_Unlocked": null,
+      "Retention_Rules": {
+        "Retained_Attributes": [
+          "Titan Serum/Mastery",
+          "Families",
+          "Perk Levels",
+          "All inventory items"
+        ],
+        "Keep_Streak": true
+      },
+      "Consequences_Resets": [
+        "Level resets",
+        "Skill tree resets",
+        "ODM Grade resets"
+      ],
+      "Buffs_And_Rewards": {
+        "Selectable_Permanent_Boost_Options": [
+          "+7.5% Luck",
+          "+15.0% Exp",
+          "+15.0% Gold"
+        ],
+        "AFK_Zone_Gem_Payout_Bonus": 10,
+        "Legendary_Family_Flat_Chance_Bonus": 0.005,
+        "Gold_To_Gem_Conversion": {
+          "Gold_Per_Gem_Ratio": 1000,
+          "Cap_Multiplier_Base_Gold": 200000000
+        }
+      }
+    },
+    {
+      "Prestige_Tier": 5,
+      "Level_Cap": 225,
+      "EXP_Required_To_Max": 11673242,
+      "Character_Slot_Unlocked": null,
+      "Retention_Rules": {
+        "Retained_Attributes": [
+          "Titan Serum/Mastery",
+          "Families",
+          "Perk Levels",
+          "All inventory items"
+        ],
+        "Keep_Streak": true
+      },
+      "Consequences_Resets": [
+        "Level resets",
+        "Skill tree resets",
+        "ODM Grade resets"
+      ],
+      "Buffs_And_Rewards": {
+        "Selectable_Permanent_Boost_Options": [
+          "+7.5% Luck",
+          "+15.0% Exp",
+          "+15.0% Gold"
+        ],
+        "AFK_Zone_Gem_Payout_Bonus": 10,
+        "Legendary_Family_Flat_Chance_Bonus": 0.005,
+        "Gold_To_Gem_Conversion": {
+          "Gold_Per_Gem_Ratio": 1000,
+          "Cap_Multiplier_Base_Gold": 200000000
+        }
+      }
+    }
+  ],
+  "Memory_System_Globals": {
+    "Slots_Unlocked_Per_Prestige": 1,
+    "Base_Storage_Slots": 1,
+    "Storage_Unlock_Milestones": [
+      "+1 slot of storage at Prestige 3",
+      "+1 slot of storage at Prestige 5"
+    ],
+    "Gamepass_Storage_Bonus": 3,
+    "Roll_Chances": {
+      "1_Star_Percentage": 70,
+      "2_Star_Percentage": 25,
+      "3_Star_Percentage": 4,
+      "4_Star_Percentage": 1
+    },
+    "Pity_Mechanic": {
+      "Scrolls_Until_Pity": 20,
+      "Pity_Target_Rarity": "3+ Star Memories",
+      "Resets_On_Early_Roll": true
+    }
+  }
+}
